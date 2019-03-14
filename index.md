@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Welcome to my website</h1>
-<p>Coming soon...</p>
-</body>
-</html>
